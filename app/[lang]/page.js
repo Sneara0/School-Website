@@ -10,7 +10,7 @@ export default function Home({ params }) {
     <div className="p-8 text-center">
       <h1 className="text-3xl font-bold">{t.welcome}</h1>
       <p className="mt-4">
-        {lang === "bn" ? "এটি বাংলা হোম পেজ।" : "This is English Home Page."}
+     
       </p>
     </div>
   );
